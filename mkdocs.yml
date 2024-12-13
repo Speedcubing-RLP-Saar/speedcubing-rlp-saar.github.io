@@ -94,6 +94,12 @@ nav:
   - "Introduction": index.md
   - "Competitions":
       - "Rheinland-Pfalz": competitions/rlp.md
+  - "Tutorials":
+      - "Compete": tutorials/compete.md
+      - "Judge": tutorials/judge.md
+      - "Run": tutorials/run.md
+      - "Scramble": tutorials/scramble.md
+      - "Organize": tutorials/organize.md
   - "About":
       - "Goals": about/goals.md
 
