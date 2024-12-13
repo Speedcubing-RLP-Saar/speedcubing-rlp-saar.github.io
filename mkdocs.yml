@@ -1,0 +1,111 @@
+site_name: Speedcubing-RLP-Saar
+site_description: Speedcubing Rheinland-Pfalz / Saarland
+site_author: Annika Stein
+site_url: https://speedcubing-rlp-saar.github.io/
+
+repo_name: speedcubing-rlp-saar.github.io
+repo_url: https://github.com/Speedcubing-RLP-Saar/speedcubing-rlp-saar.github.io
+edit_uri: 'blob/master/docs'
+
+theme:
+  name: material
+  font: false
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: teal
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    # - navigation.instant
+    - toc.integrate
+    - toc.follow
+    - navigation.top
+    - content.tabs.link
+    # - header.autohide
+    - search.suggest
+  custom_dir: 'docs/overrides'
+
+copyright: 'Copyright &copy; 2024, Annika Stein'
+
+extra_css:
+  - stylesheets/fonts.css
+
+markdown_extensions:
+  - admonition:
+  - attr_list:
+  - md_in_html:
+  - tables:
+  - toc:
+      permalink: "link"
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      # options:
+      #   image_path: https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/32/
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+  - pymdownx.inlinehilite:
+  - pymdownx.snippets:
+  - pymdownx.superfences:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/speedcubingrlpsaar/
+      name: Instagram Account
+plugins:
+  - search:
+  - git-revision-date-localized:
+      enable_creation_date: false
+
+nav:
+  - "Introduction": index.md
+  - "Competitions":
+      - "Rheinland-Pfalz": competitions/rlp.md
+  - "About":
+      - "Goals": about/goals.md
+
+use_directory_urls: false
+
+extra_css:
+    - css/extra.css
+
+# one of the two polyfills should do it
+extra_javascript:
+  - javascript/mathjax.js
+  - https://polyfill-fastly.io/v3/polyfill.min.js?features=es6
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML

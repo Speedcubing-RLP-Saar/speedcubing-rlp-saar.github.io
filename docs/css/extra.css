@@ -1,0 +1,12 @@
+.md-main__inner {
+    max-width: none;
+}
+.md-sidebar--primary {
+    left: 1em;
+}
+.md-sidebar--secondary {
+    right: 1em;
+    margin-left: 0;
+    -webkit-transform: none;
+    transform: none;
+}
