@@ -2,6 +2,7 @@ mkdocs
 mkdocs-awesome-pages-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-i18n
+mkdocs-static-i18n
 mkdocs-markdownextradata-plugin
 mkdocs-material
 mkdocs-material-extensions

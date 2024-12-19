@@ -82,26 +82,79 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/brands/whatsapp
+      link: https://chat.whatsapp.com/EZmTlmsA8id1Ed9sPHScDY?fbclid=PAZXh0bgNhZW0CMTEAAaaHLCNIGOnkuqte7OvM_LLA-lznIOPbptfsF59JyUnGCtbmq1OkhN7Uv1w_aem_q1exaignESiYgbCWJl849A
+      name: Whatsapp Community
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/speedcubingrlpsaar/
       name: Instagram Account
+
 plugins:
   - search:
-  - git-revision-date-localized:
-      enable_creation_date: false
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: de
+          default: true
+          name: Deutsch
+          build: true
+          site_name: "Speedcubing-RLP-Saar (🇩🇪)"
+        - locale: en
+          name: English
+          build: true
+          site_name: "Speedcubing-RLP-Saar (🇬🇧)"
+          nav_translations:
+            "Home": Home
+            "Wettbewerbe": Competitions
+          #   "Rheinland-Pfalz": "Rheinland-Pfalz"
+            "Tutorials": Tutorials
+          #       "Anmelden": "Register"
+          #       "Teilnehmen": "Compete"
+          #       "Judgen": "Judge"
+          #       "Runnen": "Run"
+          #       "Scramblen": "Scramble"
+          #       "Organisieren": "Organize"
+            "Projekte": Projects
+          #       "Für Newcomer und Gäste": projects/newcomers.md
+          #       "Für Orga-Teams": projects/orgateams.md
+          #       "German State Ranks": projects/ger-state-ranks.md
+  #- git-revision-date-localized:
+#      enable_creation_date: false
 
+
+# nav:
+#   - "Home": index.md
+#   - "Wettbewerbe":
+#       - "Rheinland-Pfalz": competitions/rlp.md
+#   - "Tutorials":
+#       - "Compete": tutorials/compete.md
+#       - "Judge": tutorials/judge.md
+#       - "Run": tutorials/run.md
+#       - "Scramble": tutorials/scramble.md
+#       - "Organize": tutorials/organize.md
+#   - "Mehr Infos":
+#       - "Projekte": about/projects.md
+#   - "Wichtige Links":
+#       - "German State Ranks": links/ger-state-ranks.md
 nav:
-  - "Introduction": index.md
-  - "Competitions":
-      - "Rheinland-Pfalz": competitions/rlp.md
+  - "Home": index.md
+  - "Wettbewerbe":
+      - "Wettbewerbe in Rheinland-Pfalz / Saarland": competitions/index.md
+      #- "Rheinland-Pfalz": competitions/rlp.md
   - "Tutorials":
-      - "Compete": tutorials/compete.md
-      - "Judge": tutorials/judge.md
-      - "Run": tutorials/run.md
-      - "Scramble": tutorials/scramble.md
-      - "Organize": tutorials/organize.md
-  - "About":
-      - "Goals": about/goals.md
+      - "Anmelden": tutorials/register.md
+      - "Teilnehmen": tutorials/compete.md
+      - "Judgen": tutorials/judge.md
+      - "Runnen": tutorials/run.md
+      - "Scramblen": tutorials/scramble.md
+      - "Organisieren": tutorials/organize.md
+  - "Projekte":
+      - "Design von Informationsmaterial": projects/infomaterial.md
+      - "Entwicklung von Tools": projects/tools.md
+      - "German State Ranks": projects/ger-state-ranks.md
 
 use_directory_urls: false
 
