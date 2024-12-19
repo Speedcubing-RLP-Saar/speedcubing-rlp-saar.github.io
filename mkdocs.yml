@@ -65,8 +65,8 @@ markdown_extensions:
       generic: true
   - pymdownx.details:
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+       emoji_index: !!python/name:material.extensions.emoji.twemoji
+       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       # options:
       #   image_path: https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/32/
   - pymdownx.highlight:
@@ -145,6 +145,7 @@ nav:
       - "Wettbewerbe in Rheinland-Pfalz / Saarland": competitions/index.md
       #- "Rheinland-Pfalz": competitions/rlp.md
   - "Tutorials":
+      - "Einführung": tutorials/index.md
       - "Anmelden": tutorials/register.md
       - "Teilnehmen": tutorials/compete.md
       - "Judgen": tutorials/judge.md
@@ -152,6 +153,7 @@ nav:
       - "Scramblen": tutorials/scramble.md
       - "Organisieren": tutorials/organize.md
   - "Projekte":
+      - "Einführung": projects/index.md
       - "Design von Informationsmaterial": projects/infomaterial.md
       - "Entwicklung von Tools": projects/tools.md
       - "German State Ranks": projects/ger-state-ranks.md
