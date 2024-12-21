@@ -111,7 +111,6 @@ plugins:
           nav_translations:
             "Home": Home
             "Wettbewerbe": Competitions
-          #   "Rheinland-Pfalz": "Rheinland-Pfalz"
             "Tutorials": Tutorials
           #       "Anmelden": "Register"
           #       "Teilnehmen": "Compete"
@@ -145,7 +144,6 @@ nav:
   - "Home": index.md
   - "Wettbewerbe":
       - "Wettbewerbe in Rheinland-Pfalz / Saarland": competitions/index.md
-      #- "Rheinland-Pfalz": competitions/rlp.md
   - "Tutorials":
       - "Einführung": tutorials/index.md
       - "Anmelden": tutorials/register.md
