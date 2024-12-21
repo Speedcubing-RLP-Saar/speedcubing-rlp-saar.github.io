@@ -46,6 +46,7 @@ theme:
     - content.tabs.link
     # - header.autohide
     - search.suggest
+    - navigation.footer
   custom_dir: 'docs/overrides'
 
 copyright: 'Copyright &copy; 2024, Annika Stein'
@@ -88,6 +89,7 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/speedcubingrlpsaar/
       name: Instagram Account
+  generator: false
 
 plugins:
   - search:
@@ -148,8 +150,7 @@ nav:
       - "Einführung": tutorials/index.md
       - "Anmelden": tutorials/register.md
       - "Teilnehmen": tutorials/compete.md
-      - "Judgen": tutorials/judge.md
-      - "Runnen": tutorials/run.md
+      - "Judgen oder Runnen": tutorials/judgerun.md
       - "Scramblen": tutorials/scramble.md
       - "Organisieren": tutorials/organize.md
   - "Projekte":
