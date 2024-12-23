@@ -122,6 +122,7 @@ plugins:
           #       "Für Newcomer und Gäste": projects/newcomers.md
           #       "Für Orga-Teams": projects/orgateams.md
           #       "German State Ranks": projects/ger-state-ranks.md
+            "Community": Community
   #- git-revision-date-localized:
 #      enable_creation_date: false
 
@@ -151,11 +152,14 @@ nav:
       - "Judgen oder Runnen": tutorials/judgerun.md
       - "Scramblen": tutorials/scramble.md
       - "Organisieren": tutorials/organize.md
+      - "Quiz": tutorials/quiz.md
   - "Projekte":
       - "Einführung": projects/index.md
       - "Design von Informationsmaterial": projects/infomaterial.md
       - "Entwicklung von Tools": projects/tools.md
       - "German State Ranks": projects/ger-state-ranks.md
+  - "Community":
+      - "Übersicht": community/index.md
 
 use_directory_urls: false
 

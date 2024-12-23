@@ -39,7 +39,7 @@
 
     Stelle sicher, dass du mit deinem Account (s.o.) eingeloggt bist. Dann kannst du die Anmeldeseite des Wettbewerbs aufrufen (die URL im Browser endet dann mit /register). Wenn die Anmeldung noch nicht geöffnet ist, kannst du noch nichts weiter tun, außer verifizieren, dass du schon gezahlt hast und die Organisatoren deine Zahlung zuordnen können.
 
-    Sobald die Anmeldung geöffnet ist, kannst du dann fortfahren und die Events angeben, an denen zu teilnehmen möchtest, du kannst die Anzahl Gäste mitteilen, und wichtig: im Kommentarfeld auf der WCA Website kannst du dann komplementär zu Schritt 2 hinschreiben, wer gezahlt hat (Paypal-Name oder Paypal-Email). Dann ist es für uns eindeutig, welche Zahlung zu welcher Anmeldung gehört, sollten die Namen nicht übereinstimmen.
+    Sobald die Anmeldung geöffnet ist, kannst du dann fortfahren und die Events angeben, an denen zu teilnehmen möchtest, du kannst die Anzahl Gäste mitteilen, und wichtig: im Kommentarfeld auf der WCA Website kannst du dann komplementär zu Schritt 2 hinschreiben, wer gezahlt hat (Paypal-Name oder Paypal-Email oder Paypal-Transaktionsnummer/ID). Dann ist es für uns eindeutig, welche Zahlung zu welcher Anmeldung gehört, sollten die Namen nicht übereinstimmen.
 
     [:octicons-arrow-right-24: Alle Wettbewerbe](/competitions)
 

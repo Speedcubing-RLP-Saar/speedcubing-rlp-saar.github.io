@@ -36,6 +36,22 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
                                               listStyle="modal"
                                               lightMode="bodyScheme"></add-to-calendar-button>
 
+    - 10.02.2025 07:00 PM CET : [Mainzelcubing 2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025) <add-to-calendar-button
+                                              name="Register for Europe FMC Friends - Winter 2025"
+                                              startDate="2025-02-10"
+                                              startTime="19:00"
+                                              endTime="20:00"
+                                              timeZone="Europe/Berlin"
+                                              location="World Wide Web"
+                                              description="Register here:[br]→ [url]https://www.worldcubeassociation.org/competitions/Mainzelcubing2025/register|Click here![/url]"
+                                              options="'Apple','Google','iCal','Outlook.com','Yahoo'"
+                                              label="Save to my calendar"
+                                              iCalFileName="Register-Mainzelcubing2025"
+                                              size="1"
+                                              inline
+                                              listStyle="modal"
+                                              lightMode="bodyScheme"></add-to-calendar-button>
+
 <div class="grid cards" markdown>
 -   :simple-searxng:{ .lg .middle } __Competitions__
 
