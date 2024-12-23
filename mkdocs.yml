@@ -123,6 +123,7 @@ plugins:
           #       "Für Orga-Teams": projects/orgateams.md
           #       "German State Ranks": projects/ger-state-ranks.md
             "Community": Community
+            "Für Organisationsteams": "For Organization Teams"
   #- git-revision-date-localized:
 #      enable_creation_date: false
 
@@ -160,6 +161,8 @@ nav:
       - "German State Ranks": projects/ger-state-ranks.md
   - "Community":
       - "Übersicht": community/index.md
+  - "Für Organisationsteams":
+      - "Übersicht": for-orga/index.md
 
 use_directory_urls: false
 
