@@ -19,9 +19,9 @@ Willkommen! Wir freuen uns, dass du uns entdeckt hast! Erfahre mehr über Speedc
                                               inline
                                               listStyle="modal"
                                               lightMode="bodyScheme"></add-to-calendar-button>
-    - 02.01.2025 21:00 MEZ (CET) : [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025) <add-to-calendar-button
+    - 06.01.2025 21:00 MEZ (CET) : [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025) <add-to-calendar-button
                                               name="Registrieren für Europe FMC Friends - Winter 2025"
-                                              startDate="2025-01-02"
+                                              startDate="2025-01-06"
                                               startTime="21:00"
                                               endTime="22:00"
                                               timeZone="Europe/Berlin"
