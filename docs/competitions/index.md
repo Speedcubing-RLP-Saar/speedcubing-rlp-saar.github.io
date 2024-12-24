@@ -6,7 +6,7 @@ Chronologische Abfolge der nächsten Competitions in unserer Region, inklusive n
     Website: [EuropeFMCFriendsWinter2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025)  
     Allgemeines: Multi-Country Simultaneous FMC Competition (1 Tag)  
     Ort: Mainz (und andere)  
-    Anmeldung: 02.01.2025, 21:00 MEZ  
+    Anmeldung: 06.01.2025, 21:00 MEZ  
     Competition: 01.02.2025  
     Unofficial Events: tba, aber zeitlich eingeplant! Wird per Umfrage entschieden. Diese findet noch bis zum 01.01.2025 [:octicons-arrow-right-24: hier auf Whatsapp](https://chat.whatsapp.com/CQKoaeq8Pi6KWA2OfcLvm7) statt.
 
