@@ -4,13 +4,13 @@ Um dir die Arbeit zu erleichtern, findest du hier nützliche Links und Hinweise.
 
 ??? tip "Urkunden"
 
-    Für die Urkunden gibt es eine [:octicons-arrow-right-24: Website](https://goosly.github.io/wca-certificates), die sich nach der Synchronisation von WCA Live die Ergebnisse und weitere Daten zu deiner Comp nimmt, um automatische Urkundentexte zu generieren. Du kannst selbst steuern, was darauf stehen soll und wie sich der Text ins Layout fügt. Auch der Hintergrund (eine jpg-Datei) ist frei wählbar.
+    Für die Urkunden gibt es eine [:octicons-arrow-up-right-24: Website](https://goosly.github.io/wca-certificates){:target="_blank"}, die sich nach der Synchronisation von WCA Live die Ergebnisse und weitere Daten zu deiner Comp nimmt, um automatische Urkundentexte zu generieren. Du kannst selbst steuern, was darauf stehen soll und wie sich der Text ins Layout fügt. Auch der Hintergrund (eine jpg-Datei) ist frei wählbar.
 
     Am Anfang bzw. vor der Comp kannst du anhand leerer Urkunden testen, wie sie später aussehen werden. Dazu: login auf der Website, wähle eine Comp aus. Dann gibt es einen blauen Button "Empty certificate for `CompID`".
 
     === "Standard-Urkunden"
 
-        1. Setze im Tab "Customize podium certificates" unten bei "Background design:" deine bevorzugte .jpg-Datei aus dem [:octicons-arrow-right-24: WCT Vorlagen-Verzeichnis](https://drive.google.com/drive/folders/1jrMWgOgNscPDqoxzgnEQ1bnV9D4FDzLj) ein. Es gibt sie in verschiedenen Farben, und als Querformat (Landscape) oder Hochkant (Portrait).
+        1. Setze im Tab "Customize podium certificates" unten bei "Background design:" deine bevorzugte .jpg-Datei aus dem [:octicons-arrow-up-right-24: WCT Vorlagen-Verzeichnis](https://drive.google.com/drive/folders/1jrMWgOgNscPDqoxzgnEQ1bnV9D4FDzLj){:target="_blank"} ein. Es gibt sie in verschiedenen Farben, und als Querformat (Landscape) oder Hochkant (Portrait).
 
         2. Da wir Urkunden im Allgemeinen nicht nur an deutsche Cuber vergeben, lassen wir die Sprache einfach so, wie sie standardmäßig eingestellt ist (English (UK)). Den Text im Feld kannst du ebenfalls so übernehmen.
 
@@ -22,7 +22,7 @@ Um dir die Arbeit zu erleichtern, findest du hier nützliche Links und Hinweise.
 
         Zusätzlich zu den Hinweisen bzgl. Standard-Urkunden kannst du mithilfe dieser Schritte die Urkunden etwas individueller gestalten. Außerdem wird dies relevant, wenn du Trainee Delegates ebenso auf der Urkunde nennen möchtest, wie die Junior / Full Delegates (sie sind WCA Staff und stehen standardmäßig schon drauf).
 
-        1.  Wenn du mit Apple Pages arbeitest: eine .pages-Vorlage steht bereit (falls RLP Comp, kannst du die Vorlage [:octicons-arrow-right-24: per Mail](mailto:speedcubing.rlp.saar@gmail.com) anfragen). Dort kann z.B. das Competition-Logo eingefügt werden.
+        1.  Wenn du mit Apple Pages arbeitest: eine .pages-Vorlage steht bereit (falls RLP Comp, kannst du die Vorlage [:octicons-mail-24: per Mail](mailto:speedcubing.rlp.saar@gmail.com) anfragen). Dort kann z.B. das Competition-Logo eingefügt werden.
         2. Diese in .pdf exportieren, anschließend mit z.B. "Vorschau" in .jpg exportieren (600 dpi / optimal). Wenn der Export in .jpeg passiert, einfach von Hand die Endung zu .jpg ändern, sonst beschwert sich die Website. Diese Datei kann bei "Background design:" hochgeladen werden.
         3. Damit hast du einen eigenen Hintergrund. Fehlt noch der Text. Hier ist ein Beispiel, welches für RLP Open 2024 genutzt wurde. Beachte die vielen Zeilenumbrüche (das sind die `\n`) am Anfang für das eigene RLP Template, der Text beginnt erst recht weit unten auf der Seite und nicht direkt ganz oben (sonst würde der Text mit dem Logo überlappen)!
 

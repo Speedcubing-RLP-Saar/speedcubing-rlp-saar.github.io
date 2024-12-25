@@ -4,7 +4,7 @@
     Hier sammeln wir zahlreiche Anleitungen und Tipps, die dir den Einstieg ins kompetitive Speedcubing, also unter anderem die Anmeldung und Teilnahme an deinem ersten WCA Wettbewerb, erleichtern. Auch darüber hinaus wirst du hilfreiche Einblicke erhalten, die für etwas erfahrenere Leute gedacht sind. Selbst wenn es damit recht viel Text zu lesen gibt, denken wir, dass du nicht nur die Regelungen, sondern auch die Gründe dahinter kennen solltest - denn so verstehst du, was sich die letzten Jahre bewährt hat und weshalb.
 
 !!! question "Wo fange ich an?"
-    Du kannst die Anleitungen schrittweise lesen, diese Reihenfolge orientiert sich am typischen Erfahrungsgrad zu Beginn deiner WCA Karriere bzw. nach ein paar Wettbewerben, und geht dann mit verantwortungsvolleren Aufgaben weiter. Wir bemühen uns, dabei möglichst transparent zu sein und auch Insider-Infos weiterzugeben! Umgekehrt sind wir auch offen für Feedback, sowohl hier [digital](mailto:speedcubing.rlp.saar@gmail.com) als auch vor Ort - sprich uns einfach an.
+    Du kannst die Anleitungen schrittweise lesen, diese Reihenfolge orientiert sich am typischen Erfahrungsgrad zu Beginn deiner WCA Karriere bzw. nach ein paar Wettbewerben, und geht dann mit verantwortungsvolleren Aufgaben weiter. Wir bemühen uns, dabei möglichst transparent zu sein und auch Insider-Infos weiterzugeben! Umgekehrt sind wir auch offen für Feedback, sowohl hier [:octicons-mail-24: per Mail](mailto:speedcubing.rlp.saar@gmail.com) als auch vor Ort - sprich uns einfach an.
 
 <div class="grid cards" markdown>
 -   :fontawesome-solid-1: __Anmelden__
