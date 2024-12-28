@@ -4,7 +4,7 @@ Chronologische Abfolge der nächsten Competitions in unserer Region, inklusive n
 
 !!! success "Europe FMC Friends - Winter 2025"
     Website: [EuropeFMCFriendsWinter2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025){:target="_blank"}  
-    Allgemeines: Multi-Country Simultaneous FMC Competition (1 Tag)  
+    Allgemeines: Multi-Country Simultaneous FMC Competition (1 Tag), beachte deshalb die Anmeldung via [fm.danskspeedcubingforening.dk](https://fm.danskspeedcubingforening.dk/competitions/EuropeFMCFriendsWinter2025){:target="_blank"}  
     Ort: Mainz (und andere)  
     Anmeldung: 06.01.2025, 21:00 MEZ  
     Competition: 01.02.2025  

@@ -41,7 +41,7 @@
 
     Sobald die Anmeldung geöffnet ist, kannst du dann fortfahren und die Events angeben, an denen zu teilnehmen möchtest, du kannst die Anzahl Gäste mitteilen, und wichtig: im Kommentarfeld auf der WCA Website kannst du dann komplementär zu Schritt 2 hinschreiben, wer gezahlt hat (Paypal-Name oder Paypal-Email oder Paypal-Transaktionsnummer/ID). Dann ist es für uns eindeutig, welche Zahlung zu welcher Anmeldung gehört, sollten die Namen nicht übereinstimmen.
 
-    [:octicons-arrow-right-24: Alle Wettbewerbe](/competitions)
+    [:octicons-arrow-right-24: Alle Wettbewerbe](../competitions/index.md)
 
 
 </div>

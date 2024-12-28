@@ -57,7 +57,7 @@ Willkommen! Wir freuen uns, dass du uns entdeckt hast! Erfahre mehr über Speedc
 
     Erhalte alle Informationen zu anstehenden Competitions in unserer Region, inklusive derer, die noch nicht angekündigt sind.
 
-    [:octicons-arrow-right-24: Suche Wettbewerbe](/competitions)
+    [:octicons-arrow-right-24: Suche Wettbewerbe](competitions/index.md)
 
 -   :material-head-lightbulb:{ .lg .middle } __Tutorials__
 
@@ -65,7 +65,7 @@ Willkommen! Wir freuen uns, dass du uns entdeckt hast! Erfahre mehr über Speedc
 
     An Wettbewerben teilnehmen ist neu für dich oder du bist neugierig geworden, wie du deine eigene Competition durchführen kannst? Hier findest du Antworten auf deine Fragen.
 
-    [:octicons-arrow-right-24: Erfahre mehr](/tutorials)
+    [:octicons-arrow-right-24: Erfahre mehr](tutorials/index.md)
 
 -   :material-tools:{ .lg .middle } __Projekte__
 
@@ -73,7 +73,7 @@ Willkommen! Wir freuen uns, dass du uns entdeckt hast! Erfahre mehr über Speedc
 
     Dies ist der Ort, um kreativ zu sein, nützliche Tools für die Community zu entwickeln, und Spaßevents zu erschaffen.
 
-    [:octicons-arrow-right-24: Finde dein Lieblingsprojekt](/projects)
+    [:octicons-arrow-right-24: Finde dein Lieblingsprojekt](projects/index.md)
 
 </div>
 

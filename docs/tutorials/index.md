@@ -13,7 +13,7 @@
 
     Hier geht's los, wenn du ganz neu dabei bist und dich das erste Mal zu einem Wettbewerb anmelden möchtest! Auch für die etwas erfahreneren Leute eine gute Auffrischung, wie die Website zu bedienen ist und wie die Zahlung abläuft.
 
-    [:octicons-arrow-right-24: Anmelden](./register.html)
+    [:octicons-arrow-right-24: Anmelden](./register.md)
 
 -   :fontawesome-solid-2:{ .lg .middle } __Teilnehmen__
 
@@ -21,7 +21,7 @@
 
     Du hast dich zu einem Wettbewerb angemeldet und möchtest dich nun optimal darauf vorbereiten? Dann schau hier vorbei und informiere dich, was du vorher erledigen und einpacken solltest, und wie du dich als Teilnehmer bei einem Wettbewerb verhalten solltest.
 
-    [:octicons-arrow-right-24: Teilnehmen](./compete.html)
+    [:octicons-arrow-right-24: Teilnehmen](./compete.md)
 </div>
 
 <div class="grid cards" markdown>
@@ -31,7 +31,7 @@
 
     Neben deiner Rolle als Competitor wirst du recht bald auch als Judge und / oder Runner tätig sein! Nur so können wir es schaffen, dass alle Personen teilnehmen können und es zu jedem Versuch ausreichend Schiedsrichter und weitere Helfer gibt. Hier siehst du, was du dann in einer dieser Rollen zu erledigen hast.
 
-    [:octicons-arrow-right-24: Judgen und Runnen](./judgerun.html)
+    [:octicons-arrow-right-24: Judgen und Runnen](./judgerun.md)
 
 -   :fontawesome-solid-4:{ .lg .middle } __Scrambling__
 
@@ -39,7 +39,7 @@
 
     Faire Bedingungen für alle erfordern vertrauenswürdige Scrambler, die die Puzzles nach computergenerierten Zugfolgen verdrehen, und diese dann auf Korrektheit kontrollieren. Hier findest du Hinweise für diese wichtige Aufgabe, die wir nur an erfahrene Personen vergeben.
 
-    [:octicons-arrow-right-24: Scrambling](./scramble.html)
+    [:octicons-arrow-right-24: Scrambling](./scramble.md)
 </div>
 
 <div class="grid cards" markdown>
@@ -50,5 +50,5 @@
 
     Wenn du selbst eine Competition bei dir bzw. in deiner Nähe organisieren möchtest, dann findest du hier die Anforderungen an dich bzw. dein Team und an die Räumlichkeiten. Wir möchten, dass die Competition erfolgreich wird, und erwarten daher, dass du diese Aufgabe vertrauensvoll umsetzt und auch vor Zusatzarbeit nicht zurückschreckst - denn eine Competition zu organisieren ist ein Projekt mit vielen Zwischenschritten und wird dich über Monate begleiten.
 
-    [:octicons-arrow-right-24: Organisieren](./organize.html)
+    [:octicons-arrow-right-24: Organisieren](./organize.md)
 </div>

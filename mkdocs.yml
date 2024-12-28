@@ -44,6 +44,7 @@ theme:
     - toc.follow
     - navigation.top
     - content.tabs.link
+    - content.code.copy
     # - header.autohide
     - search.suggest
     - navigation.footer
@@ -74,6 +75,7 @@ markdown_extensions:
       use_pygments: true
       anchor_linenums: true
   - pymdownx.inlinehilite:
+  - pymdownx.keys:
   - pymdownx.snippets:
   - pymdownx.superfences:
   - pymdownx.tabbed:
