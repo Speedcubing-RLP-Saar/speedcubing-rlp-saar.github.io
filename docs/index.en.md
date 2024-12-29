@@ -4,7 +4,7 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
 
 !!! success "The next registration periods start at..."
 
-    - 02.01.2025 06:00 PM CET : [Rheinland-Pfalz Open 2025](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025) <add-to-calendar-button
+    - 02.01.2025 06:00 PM CET : [Rheinland-Pfalz Open 2025](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025){:target="_blank"} <add-to-calendar-button
                                               name="Register for Rheinland-Pfalz Open 2025"
                                               startDate="2025-01-02"
                                               startTime="18:00"
@@ -20,7 +20,7 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
                                               listStyle="modal"
                                               lightMode="bodyScheme"></add-to-calendar-button>
 
-    - 06.01.2025 09:00 PM CET : [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025) <add-to-calendar-button
+    - 06.01.2025 09:00 PM CET : [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025){:target="_blank"} <add-to-calendar-button
                                               name="Register for Europe FMC Friends - Winter 2025"
                                               startDate="2025-01-06"
                                               startTime="21:00"
@@ -36,7 +36,7 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
                                               listStyle="modal"
                                               lightMode="bodyScheme"></add-to-calendar-button>
 
-    - 10.02.2025 07:00 PM CET : [Mainzelcubing 2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025) <add-to-calendar-button
+    - 10.02.2025 07:00 PM CET : [Mainzelcubing 2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025){:target="_blank"} <add-to-calendar-button
                                               name="Register for Europe FMC Friends - Winter 2025"
                                               startDate="2025-02-10"
                                               startTime="19:00"
@@ -59,7 +59,7 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
 
     Get all information about upcoming competitions in our area, including those that are not announced yet.
 
-    [:octicons-arrow-right-24: Browse competitions](/en/competitions)
+    [:octicons-arrow-right-24: Browse competitions](./competitions/index.md)
 
 -   :material-head-lightbulb:{ .lg .middle } __Tutorials__
 
@@ -67,7 +67,7 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
 
     New to competing or curious about running your own competition? Here you'll find answers to your questions.
 
-    [:octicons-arrow-right-24: Learn more](/en/tutorials)
+    [:octicons-arrow-right-24: Learn more](./tutorials/index.md)
 
 -   :material-tools:{ .lg .middle } __Projects__
 
@@ -75,7 +75,7 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
 
     This is the place for being creative, building useful tools for the community, and creating fun events.
 
-    [:octicons-arrow-right-24: Find your favorite project](/en/projects)
+    [:octicons-arrow-right-24: Find your favorite project](./projects/index.md)
 
 </div>
 
@@ -84,9 +84,9 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
 
     <div class="grid cards" markdown>
 
-    - :simple-whatsapp: __Whatsapp community__ [:octicons-arrow-right-24: join us!](https://chat.whatsapp.com/EZmTlmsA8id1Ed9sPHScDY?fbclid=PAZXh0bgNhZW0CMTEAAaaHLCNIGOnkuqte7OvM_LLA-lznIOPbptfsF59JyUnGCtbmq1OkhN7Uv1w_aem_q1exaignESiYgbCWJl849A)  
+    - :simple-whatsapp: __Whatsapp community__ [:octicons-arrow-right-24: join us!](https://chat.whatsapp.com/EZmTlmsA8id1Ed9sPHScDY?fbclid=PAZXh0bgNhZW0CMTEAAaaHLCNIGOnkuqte7OvM_LLA-lznIOPbptfsF59JyUnGCtbmq1OkhN7Uv1w_aem_q1exaignESiYgbCWJl849A){:target="_blank"}  
       What's to discover there? :octicons-arrow-right-24: organize carpooling, discuss and answer polls, find group accomodation...
-    - :simple-instagram: __Instagram account__ [:octicons-arrow-right-24: follow us!](https://www.instagram.com/speedcubingrlpsaar/)  
+    - :simple-instagram: __Instagram account__ [:octicons-arrow-right-24: follow us!](https://www.instagram.com/speedcubingrlpsaar/){:target="_blank"}  
       What kind of posts can you expect there? :octicons-arrow-right-24: announcements of new competitions, more details on already announced competitions...
 
     </div>

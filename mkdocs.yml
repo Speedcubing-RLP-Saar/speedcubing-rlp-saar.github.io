@@ -120,36 +120,13 @@ plugins:
             "Home": Home
             "Wettbewerbe": Competitions
             "Tutorials": Tutorials
-          #       "Anmelden": "Register"
-          #       "Teilnehmen": "Compete"
-          #       "Judgen": "Judge"
-          #       "Runnen": "Run"
-          #       "Scramblen": "Scramble"
-          #       "Organisieren": "Organize"
             "Projekte": Projects
-          #       "Für Newcomer und Gäste": projects/newcomers.md
-          #       "Für Orga-Teams": projects/orgateams.md
-          #       "German State Ranks": projects/ger-state-ranks.md
             "Community": Community
             "Für Organisationsteams": "For Organization Teams"
+            "Bundesland-Rankings": "German State Ranks"
   #- git-revision-date-localized:
 #      enable_creation_date: false
 
-
-# nav:
-#   - "Home": index.md
-#   - "Wettbewerbe":
-#       - "Rheinland-Pfalz": competitions/rlp.md
-#   - "Tutorials":
-#       - "Compete": tutorials/compete.md
-#       - "Judge": tutorials/judge.md
-#       - "Run": tutorials/run.md
-#       - "Scramble": tutorials/scramble.md
-#       - "Organize": tutorials/organize.md
-#   - "Mehr Infos":
-#       - "Projekte": about/projects.md
-#   - "Wichtige Links":
-#       - "German State Ranks": links/ger-state-ranks.md
 nav:
   - "Home": index.md
   - "Wettbewerbe":
@@ -171,18 +148,14 @@ nav:
       - "Übersicht": community/index.md
   - "Für Organisationsteams":
       - "Übersicht": for-orga/index.md
+  - "Bundesland-Rankings": https://annikastein.github.io/WCA-German-State-Ranks/
 
 use_directory_urls: false
 
 extra_css:
     - css/extra.css
 
-# one of the two polyfills should do it - ignore for the momemt / replace with new stuff
 extra_javascript:
   - javascript/orga.js
   - javascript/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-  #- https://polyfill-fastly.io/v3/polyfill.min.js?features=es6
-  #- https://polyfill.io/v3/polyfill.min.js?features=es6
-  #- https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  #- https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
