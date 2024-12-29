@@ -85,6 +85,12 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/solid/globe
+      link: https://annikastein.github.io/my-comp/
+      name: my-comp
+    - icon: fontawesome/solid/envelope
+      link: mailto:speedcubing.rlp.saar@gmail.com
+      name: Mail
     - icon: fontawesome/brands/whatsapp
       link: https://chat.whatsapp.com/EZmTlmsA8id1Ed9sPHScDY?fbclid=PAZXh0bgNhZW0CMTEAAaaHLCNIGOnkuqte7OvM_LLA-lznIOPbptfsF59JyUnGCtbmq1OkhN7Uv1w_aem_q1exaignESiYgbCWJl849A
       name: Whatsapp Community
@@ -171,10 +177,12 @@ use_directory_urls: false
 extra_css:
     - css/extra.css
 
-# one of the two polyfills should do it
+# one of the two polyfills should do it - ignore for the momemt / replace with new stuff
 extra_javascript:
+  - javascript/orga.js
   - javascript/mathjax.js
-  - https://polyfill-fastly.io/v3/polyfill.min.js?features=es6
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  #- https://polyfill-fastly.io/v3/polyfill.min.js?features=es6
+  #- https://polyfill.io/v3/polyfill.min.js?features=es6
+  #- https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  #- https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML

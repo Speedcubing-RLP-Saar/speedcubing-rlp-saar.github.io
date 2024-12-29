@@ -15,3 +15,10 @@
       Hier findest du Neuigkeiten zu den Comps unserer Region.
 
     </div>
+
+    <div class="grid cards" markdown>
+
+    - :simple-instagram: __Wir kooperieren mit unseren Nachbarn aus Lëtzebuerg!__ [:octicons-arrow-up-right-24: SCL Instagram-Account](https://www.instagram.com/speedcubingletzebuerg/){:target="_blank"}  
+      Schaut gerne vorbei, die Community wächst auch dort stetig.
+
+    </div>
