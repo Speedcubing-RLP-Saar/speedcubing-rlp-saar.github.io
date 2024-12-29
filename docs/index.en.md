@@ -92,3 +92,4 @@ Welcome! We're happy that you found us! Learn more about competitive speedcubing
     </div>
 
 <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>

@@ -17,7 +17,7 @@
 
     Wichtig: die E-Mail in deinem Account sollte funktionsfähig und aktuell sein, und bitte __kontrolliere häufig den Posteingang (+ Spam-Ordner) auf wichtige Mitteilungen der Organisatoren__! Wir senden dir mehrfach vor und nach der Competition Rundmails, und wir erwarten, dass du den Inhalt zur Kenntnis nimmst.
 
-    [:octicons-arrow-right-24: Erstmals einen WCA Account erstellen](https://www.worldcubeassociation.org/users/sign_up)
+    [:octicons-arrow-up-right-24: Erstmals einen WCA Account erstellen](https://www.worldcubeassociation.org/users/sign_up){target="_blank"}
 </div>
 
 <div class="grid cards" markdown>
@@ -31,7 +31,7 @@
     - Da die Organisatoren ehrenamtlich aktiv sind, und möglichst keine Gebühren für den Zahlungsdienst gezahlt werden sollen, sende das Geld mit der Option "Freunde und Familie". Andernfalls kommt ein um die Gebühren verringerter Betrag an, auch wenn du selbst den vollen Betrag zahlst - die Gebühr fehlt sonst der Community.
     - Es ist nun ganz wichtig, dass du vor dem Absenden der Zahlung im Kommentarfeld den Namen der Teilnehmerin / des Teilnehmers aufschreibst! Oft haben die minderjährigen Cuber noch kein eigenes (Paypal-)Konto und wir müssen dann herausfinden, wer für wen zahlt. Also mache es dir und uns leichter, indem du einfach schon dort den Namen, der auch im WCA Account steht, in den Kommentar schreibst.
 
-    [:octicons-arrow-right-24: Erstmals einen Paypal Account erstellen](https://www.paypal.com/welcome/signup)
+    [:octicons-arrow-up-right-24: Erstmals einen Paypal Account erstellen](https://www.paypal.com/welcome/signup){target="_blank"}
 
 -   :material-laptop-account:{ .lg .middle } __3. Anmeldung auf der Website__
 
