@@ -22,3 +22,4 @@ Es gab ein paar Optimierungswünsche, z.B. dass auch Teilnehmer, die zwar in Deu
 ## Wie wird all das finanziert?
 -> Nur über Spenden, und alle Berechnungen laufen über private Computing-Ressourcen, d.h. wenn du, liebe Cuberin, lieber Cuber, die Ideen sinnvoll findest und möchtest, dass sie umgesetzt werden:
 Speedcubing Rheinland-Pfalz / Saarland bzw. die Entwicklung hinter diesen Projekten freut sich über eine Spende. Du kannst dazu entweder bei deiner nächsten Anmeldung zu einem [Wettbewerb](../competitions/index.md) eine Nachricht hinterlassen, dass die Zahlung auch eine Spende enthält (also mehr als die eigentliche Teilnahmegebühr), oder den Paypal-Link einer der Competitions in RLP / Saarland für die Spende nutzen und mit einer [E-Mail](mailto:speedcubing.rlp.saar@gmail.com) kurz mitteilen, dass du gespendet hast.
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>

@@ -22,3 +22,5 @@
       Schaut gerne vorbei, die Community wächst auch dort stetig.
 
     </div>
+
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>

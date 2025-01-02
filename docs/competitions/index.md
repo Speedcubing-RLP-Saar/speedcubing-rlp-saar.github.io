@@ -33,3 +33,5 @@ Chronologische Abfolge der nächsten Competitions in unserer Region, inklusive n
     Anmeldung: tba  
     Competition: tba, etwa Q3 - Q4 2025  
     Unofficial Events: German State Cup 2.0 (Team-Knockout-Event, ähnlich zum German State Cup 2024)
+
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>

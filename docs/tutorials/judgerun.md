@@ -150,3 +150,4 @@
     Ansonsten geht die Prozedur wieder weiter, mit den nächsten Cubecovern.
 
 </div>
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>

@@ -56,7 +56,6 @@
     - (Eventuell nicht-elektronische Ohrstöpsel, falls du sie zur Konzentration brauchst)
     - (Eventuell Handwärmer)
     - (Eventuell Timer und Matte, falls du vor Ort noch üben möchtest)
-    - (Eventuell nicht-elektronische Ohrstöpsel, falls du sie zur Konzentration brauchst)
     - (Eventuell Lube, falls du vor Ort oder auf der Anreise nochmal nachhelfen möchtest)
     - (Eventuell Augenbinde (Blindfold), wenn du an einer Blindfolded-Disziplin teilnimmst)
 
@@ -89,3 +88,4 @@
     Wenn du noch weitere Versuche machen darfst, wird der Judge (oder ein Runner) das Puzzle mitnehmen und zurück zum Scramblingtisch bringen. Du musst dich dann zurück in den Wartebereich setzen (oder bleibst im Falle fester Plätze an deinem Tisch). Ansonsten ist das Event für dich vorbei und du kannst dein Puzzle wieder mitnehmen.
 
 </div>
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>

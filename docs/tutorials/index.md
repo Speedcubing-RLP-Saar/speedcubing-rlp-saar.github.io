@@ -52,3 +52,4 @@
 
     [:octicons-arrow-right-24: Organisieren](./organize.md)
 </div>
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>

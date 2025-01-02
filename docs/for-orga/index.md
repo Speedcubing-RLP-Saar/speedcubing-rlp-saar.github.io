@@ -193,3 +193,5 @@
     === "Überhaupt kein Farbdrucker vorhanden"
 
         Wie im ersten Fall kannst du dann den Hintergrund und Text kombiniert generieren lassen, und alles in einem Vorgang Schwarz/Weiß drucken.
+
+<script async data-id="101473933" src="//static.getclicky.com/js"></script>
