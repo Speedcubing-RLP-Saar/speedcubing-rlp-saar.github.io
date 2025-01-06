@@ -91,8 +91,9 @@ Willkommen! Wir freuen uns, dass du uns entdeckt hast! Erfahre mehr über Speedc
 
 ## Flyer 2025
 
+PDF herunterladen (DEUTSCH): <a href='flyer2025.pdf'>:material-download-box:</a>
+
 <object alt="flyer2025.pdf" data="flyer2025.pdf" type="application/pdf" style="min-height:70vh;width:100%">
-    <embed src="flyer2025.pdf" type="application/pdf" />
 </object>
 
 <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
