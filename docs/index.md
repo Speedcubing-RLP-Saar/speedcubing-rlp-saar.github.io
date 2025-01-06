@@ -89,5 +89,11 @@ Willkommen! Wir freuen uns, dass du uns entdeckt hast! Erfahre mehr über Speedc
 
     </div>
 
+## Flyer 2025
+
+<object alt="flyer2025.pdf" data="flyer2025.pdf" type="application/pdf" style="min-height:70vh;width:100%">
+    <embed src="flyer2025.pdf" type="application/pdf" />
+</object>
+
 <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
 <script async data-id="101473933" src="//static.getclicky.com/js"></script>

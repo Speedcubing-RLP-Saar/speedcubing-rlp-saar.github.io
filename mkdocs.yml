@@ -50,7 +50,7 @@ theme:
     - navigation.footer
   custom_dir: 'docs/overrides'
 
-copyright: 'Copyright &copy; 2024, Annika Stein'
+copyright: 'Copyright &copy; 2025, Annika Stein'
 
 extra_css:
   - stylesheets/fonts.css
