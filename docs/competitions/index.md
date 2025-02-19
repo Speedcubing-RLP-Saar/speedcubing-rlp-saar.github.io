@@ -2,7 +2,7 @@
 
 Chronologische Abfolge der nächsten Competitions in unserer Region, inklusive noch nicht angekündigter Competitions, und nur grob geplanter Competitions ohne konkretes Datum.
 
-!!! success "Europe FMC Friends - Winter 2025"
+??? failure "Europe FMC Friends - Winter 2025 (Beendet)"
     Website: [EuropeFMCFriendsWinter2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025){:target="_blank"}  
     Allgemeines: Multi-Country Simultaneous FMC Competition (1 Tag), beachte deshalb die Anmeldung via [fm.danskspeedcubingforening.dk](https://fm.danskspeedcubingforening.dk/competitions/EuropeFMCFriendsWinter2025){:target="_blank"}  
     Ort: Mainz (und andere)  
@@ -10,7 +10,7 @@ Chronologische Abfolge der nächsten Competitions in unserer Region, inklusive n
     Competition: 01.02.2025  
     Unofficial Events: tba, aber zeitlich eingeplant! Wird per Umfrage entschieden. Diese findet noch bis zum 01.01.2025 [:octicons-arrow-up-right-24: hier auf Whatsapp](https://chat.whatsapp.com/CQKoaeq8Pi6KWA2OfcLvm7){:target="_blank"} statt.
 
-!!! success "Mainzelcubing 2025"
+!!! danger "Mainzelcubing 2025 (Warteliste / Anmeldung geschlossen)"
     Website: [Mainzelcubing2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025){:target="_blank"}  
     Allgemeines: Kleine Comp, viele Runden (2 Tage)  
     Ort: Mainz  
@@ -18,7 +18,7 @@ Chronologische Abfolge der nächsten Competitions in unserer Region, inklusive n
     Competition: 22.03. & 23.03.2025  
     Unofficial Events: keine
 
-!!! success "Rheinland-Pfalz Open 2025"
+!!! warning "Rheinland-Pfalz Open 2025 (Warteliste / Anmeldung noch geöffnet)"
     Website: [RheinlandPfalzOpen2025](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025){:target="_blank"}  
     Allgemeines: Große Comp, alle Events (3 Tage)  
     Ort: Morbach  
