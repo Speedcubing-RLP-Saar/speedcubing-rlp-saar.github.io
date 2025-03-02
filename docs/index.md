@@ -4,36 +4,7 @@ Willkommen! Wir freuen uns, dass du uns entdeckt hast! Erfahre mehr über Speedc
 
 !!! success "Die nächsten Anmeldungen starten am..."
 
-    - 02.01.2025 18:00 MEZ (CET) : [Rheinland-Pfalz Open 2025](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025){:target="_blank"} <add-to-calendar-button
-                                              name="Registrieren für Rheinland-Pfalz Open 2025"
-                                              startDate="2025-01-02"
-                                              startTime="18:00"
-                                              endTime="19:00"
-                                              timeZone="Europe/Berlin"
-                                              location="World Wide Web"
-                                              description="Hier anmelden:[br]→ [url]https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025/register|Click here![/url]"
-                                              options="'Apple','Google','iCal','Outlook.com','Yahoo'"
-                                              label="In meinem Kalender speichern"
-                                              iCalFileName="Register-RheinlandPfalzOpen2025"
-                                              size="1"
-                                              inline
-                                              listStyle="modal"
-                                              lightMode="bodyScheme"></add-to-calendar-button>
-    - 10.02.2025 19:00 MEZ (CET) : [Mainzelcubing 2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025){:target="_blank"} <add-to-calendar-button
-                                              name="Registrieren für Mainzelcubing 2025"
-                                              startDate="2025-02-10"
-                                              startTime="19:00"
-                                              endTime="20:00"
-                                              timeZone="Europe/Berlin"
-                                              location="World Wide Web"
-                                              description="Hier anmelden:[br]→ [url]https://www.worldcubeassociation.org/competitions/Mainzelcubing2025/register|Click here![/url]"
-                                              options="'Apple','Google','iCal','Outlook.com','Yahoo'"
-                                              label="In meinem Kalender speichern"
-                                              iCalFileName="Register-Mainzelcubing2025"
-                                              size="1"
-                                              inline
-                                              listStyle="modal"
-                                              lightMode="bodyScheme"></add-to-calendar-button>
+    - TBA
 
 <div class="grid cards" markdown>
 -   :simple-searxng:{ .lg .middle } __Competitions__

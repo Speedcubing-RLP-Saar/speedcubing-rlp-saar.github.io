@@ -34,4 +34,14 @@ Chronologische Abfolge der nächsten Competitions in unserer Region, inklusive n
     Competition: tba, etwa Q3 - Q4 2025  
     Unofficial Events: German State Cup 2.0 (Team-Knockout-Event, ähnlich zum German State Cup 2024)
 
+!!! question "Hier könnte deine Comp stehen!"
+    Wenn du Lust hast, schau mal im [:octicons-arrow-right-24: Orga-Tutorial](../tutorials/organize.md) vorbei oder melde dich [:octicons-mail-24: hier](mailto:speedcubing.rlp.saar@gmail.com).
+
+    Website: tba  
+    Allgemeines: tba  
+    Ort: tba  
+    Anmeldung: tba  
+    Competition: tba  
+    Unofficial Events: tba
+
 <script async data-id="101473933" src="//static.getclicky.com/js"></script>

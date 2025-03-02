@@ -14,12 +14,14 @@
 
     Wenn du hingegen bereits Organisator bist und Links / Hinweise zu verschiedenen Einzelaufgaben suchst, dann gehe zu [:octicons-arrow-right-24: dieser Seite](../for-orga/index.md), sie ist thematisch sortiert.
 
+    Übrigens: diese Seite ist so umfangreich, dass man die Details noch mit Klick auf das jeweilige bunte Feld ausklappen kann.
+
 
 ??? tip annotate "Planung: von der Ideenfindung bis zur Ankündigung auf der WCA Website"
 
     Am Anfang steht die Suche nach einem __Raum__ und einem __Termin__. Je nachdem, was du vorhast, sind unterschiedliche Vorlaufzeiten sinnvoll, im Normalfall sind es einige Monate, insbesondere, wenn du das erste Mal für die Organisation verantwortlich bist. Ob deine __Venue geeignet__ ist, kannst du anhand der nachfolgenden Punkte herausfinden. Um für alle Ehrenamtler (auch für dich) die verfügbare Zeit möglichst sinnvoll zu nutzen, präsentiere nur Venue-Vorschläge, die die Anforderungen auch tatsächlich gut erfüllen - wenn die Eigenschaften der Venue gar nicht passen, verwirf die Idee und suche eine andere Venue.
 
-    ??? success "Anforderungen an die Venue"
+    !!! success "Anforderungen an die Venue"
 
         - __Größe__ je Teilnehmer: entspannt cuben lässt es sich mit etwa 3 qm pro Teilnehmer. Bis etwa 100 Teilnehmer kommen wir mit einem Delegate und einer Stage klar, auf größeren Wettbewerben sind wir dann mehrere Delegates und häufig auch mit mehreren Stages effizienter. Wir empfehlen als unteres Limit etwa 50 Teilnehmer oder 150 qm, nach oben relativ offen, jedoch abhängig von der Team-Größe, Budget und verfügbaren Delegates. Auf Big-/MultiBLD/FMC-fokussierte Comps können auch etwas kleiner sein. Die typische 100 Personen 2-Tage-Comp mit einer von dir gewählten Event-Kombination benötigt typischerweise um die 300 qm oder etwas mehr Platz. Den Anforderungen der WCA entsprechend muss genügend Platz sein (erlaubte Personenzahl), sodass jeder Teilnehmer potentiell einen Gast mitbringen könnte. In Europa gelten zudem *minimale* Teilnehmerlimits (so viele Leute müssen als Teilnehmer zugelassen werden), auch wenn die tatsächliche Zahl der Leute, die wirklich teilgenommen haben, kleiner sein darf. Die höchste Kategorie in nachstehender Übersicht ist entscheidend, d.h. wenn du z.B. 3x3, 2x2 und Fewest Moves anbieten möchtest, dann musst du für theoretisch 50 Teilnehmer + 50 Gäste Platz haben.  
         __Eines dieser Events soll angeboten werden: minimales Teilnehmerlimit => resultierende minimale Venuegröße__  
@@ -37,7 +39,7 @@
 
     Halte all deine Erkenntnisse zur Venue am besten schriftlich fest, ob digital oder analog. Die Tabellenform ist geeignet, um mehrere Venues schneller vergleichen zu können. Wenn du eine passende Venue gefunden (1) hast, mache dir Gedanken zur __Teilnehmerzahl__, sowie zur Größe und Erfahrungslevels deines __Teams__. Schließe aber ohne die Zustimmung eines Delegates noch keinen Vertrag ab!
 
-    ??? success " :fontawesome-solid-people-group: Anforderungen an das Orga-Team"
+    !!! success " :fontawesome-solid-people-group: Anforderungen an das Orga-Team"
 
         Zunächst sollte das von dir zusammengestellte Team an den Terminen verfügbar sein, die du bei deiner Venue-Recherche gefunden hast.
 
@@ -54,7 +56,7 @@
 
     Nun kannst du mit den dir zur Verfügung stehenden Informationen konkreter werden und testen, ob der Plan aufgehen kann. Der nächste Punkt ist nun das Finanzielle.
 
-    ??? success " :moneybag: Budgetierung"
+    !!! success " :moneybag: Budgetierung"
 
         Zum Budget zählen einerseits alle __Einnahmen__ (Teilnahmegebühren, evtl. Gästeeintritt, evtl. Sponsoren, evtl. Gewinne aus vorherigen Comps), als auch alle __Ausgaben__ (siehe Formular unten). Plane die Comp am besten so, dass kein oder nur ein kleiner Gewinn übrig bleibt (als Puffer für Unvorhergesehenes, besonders wenn es die erste Comp in dem Ort ist und man die Teilnehmerzahl schlecht aus der Vergangenheit schätzen kann). Wichtig: alle Personen, die zwar teilnehmen aber zum Orga-Team und / oder den Delegates dieser Comp zählen, zahlen keine Teilnahmegebühr (diese Kombination ist bei "Anzahl Teilnehmer mit freiem Eintritt" gemeint).
 
@@ -115,7 +117,7 @@
 
     Wenn die obigen Schritte erfüllt werden können, solltest du zwar immer noch keinen Vertrag abschließen, aber einen Delegate ansprechen. Es sind auf jeden Fall schon sehr gute Voraussetzungen, dass deine Comp stattfinden kann.
 
-    ??? success "Delegate ansprechen, OK zur Anmietung erhalten"
+    !!! success "Delegate ansprechen, OK zur Anmietung erhalten"
 
         Je nachdem, ob du aus unserer Region kommst oder nicht, kannst du eher die lokalen Verantwortlichen kontaktieren (Rheinland-Pfalz / Saarland) oder dich an alle im Land wenden. Wenn du einen Deutschen Delegate einfach auf einer Comp triffst, ist ein persönliches Gespräch möglich. Per Mail haben wir dann aber direkt alle Referenzen und Eckdaten schriftlich, was die weiteren Schritte beschleunigt.
 
@@ -139,11 +141,11 @@
 
     Von der einen Art administrativer Arbeiten geht es nun zur nächsten, aber die kommt dir sicherlich schon aus Teilnehmersicht etwas bekannter vor.
 
-    ??? information "Optional: Sponsoren anfragen"
+    !!! information "Optional: Sponsoren anfragen"
 
         Macht euch Gedanken, ob ihr mit Sponsoren kooperieren möchtet - das können Cube-Shops oder -Hersteller sein, aber auch lokale Unternehmen, die sich mit eurer Comp etwas Aufmerksamkeit verschaffen können. Für die Teilnehmer springen dann häufig als Gegenleistung nette Perks wie Gutscheine, Cubes als Gewinne oder sonstige Dinge heraus. Das lohnt sich also und kostet euch (bis auf etwaige Import-Zölle je nach Partner / besonders bei internationalen Firmen) nichts extra.
 
-    ??? success "WCA Website ausfüllen"
+    !!! success "WCA Website ausfüllen"
 
         Jetzt wird ein Delegate mit dir und deinem Team die Website vorbereiten. Zu Beginn ist die Website noch sehr leer, aber immerhin schon mal in der Datenbank vermerkt (auch um andere Delegates über Comps in der Nähe zu informieren).
 
@@ -255,7 +257,7 @@
 
 ??? tip "Aufgaben nach der Ankündigung bis kurz vor dem Wettbewerb"
 
-    ??? success "Anmeldungen und Zahlungen verwalten"
+    !!! success "Anmeldungen und Zahlungen verwalten"
 
         Mache dich mit der Website vertraut, besonders mit der Seite zum Betrachten und Editieren von Anmeldungen. Das neue Registration-System weicht etwas vom alten ab. Um am ersten Anmeldetag keine Überraschungen zu erleben, probe den Vorgang schon mal mit den Pre-Registrations von Orga & Delegates.
 
@@ -271,7 +273,7 @@
 
         Verwalte zudem Rückzahlungen / Abmeldungen und sonstige Fragen zur Anmeldung bzw. Zahlung zügig.
 
-    ??? success "Emails schreiben und beantworten"
+    !!! success "Emails schreiben und beantworten"
 
         Dem Orga-Team werden häufig allgemeine Fragen, Sponsoring-Anfragen, oder spezielle Fragen zu Anmeldung, Zahlung und Co. gestellt. Am besten definiert ihr, wer diese Aufgabe übernimmt, und bei Rückfragen zu einzelnen Punkten könnt ihr euch in der Gruppe absprechen und Antworten korrekturlesen. Helft euch dann gegenseitig weiter, sollte der / die Verantwortliche mal verhindert sein.
 
@@ -295,7 +297,7 @@
 
         Für viele Standard-Texte haben wir Vorlagen, in die (zumindest für RLP / Saar.) mit einer Software automatisch die benötigten Links eingesetzt werden.
 
-    ??? information "Optional: unofficial events"
+    !!! information "Optional: unofficial events"
 
         Wenn du inoffizielle Events anbieten möchtest, kannst du dich auf [:octicons-arrow-up-right-24: CubingContests](https://cubingcontests.com/) informieren, wie du Moderator-Zugriff erhältst und im Anschluss eine Website dazu erstellen kannst.
 
@@ -303,15 +305,15 @@
 
         Es kann sich lohnen, vorab eine Umfrage zu starten, welche inoffiziellen Events gewünscht werden. Bezieht gerne die (lokale) Community mit ein!
 
-    ??? information "Optional: Kommunikation mit Lieferanten"
+    !!! information "Optional: Kommunikation mit Lieferanten"
 
         Wenn ein Getränkelieferant o.ä. vorgeschrieben ist, und ihr mit einem solchen einen Vertrag eingeht, dann schätzt in den Wochen vor der Comp die benötigte Menge anhand der Teilnehmerzahlen je Tag und der erwarteten Anzahl Gäste ab. Teilt dies dem Unternehmen mit und macht euch Gedanken zu den gewünschten Sorten / Aufteilung der Bestellung.
 
         Ähnliches gilt für Merchandise-Artikel, Orga-Shirts o.ä. - überprüft die Mengen und konkrete Ware, die bestellt werden soll.
 
-    ??? success "Material besorgen, aufteilen, wer was mitbringt"
+    !!! success "Material besorgen, aufteilen, wer was mitbringt"
 
-        ??? danger "Absolut notwendig"
+        !!! danger "Absolut notwendig"
 
             - Drucker + Tinte/Toner + Papier, evtl. besonderes Urkundenpapier *(Rücksprache mit Orga-Team)*
             - Wenn kein A6-Papier genutzt wird: Schere(n) bzw. Schneidemaschine(n) für Scoresheets *(Rücksprache mit Orga-Team)*
@@ -324,14 +326,14 @@
             - Batterien *(Rücksprache mit Delegates)*
             - Nachschub für Sanitärräume (und sonstige Tücher wie z.B. Küchenpapier, kann man immer gebrauchen, besonders wenn Getränke oder Verpflegung bereitgestellt wird) *(Rücksprache mit ganzer Gruppe, sowie mit Vermieter)*
 
-        ??? information "Optional"
+        !!! information "Optional"
 
             - Medaillen bzw. sonstige Trophäen *(Rücksprache mit ganzer Gruppe, evtl. soll ein bestimmtes Logo drauf und / oder bestimmtes Design)*
             - Getränke + Snacks + Becher + Stifte zum Beschriften *(Rücksprache mit etwaigen Lieferanten)*
             - Merchandise (Sticker, Bekleidung etc.) *(Rücksprache mit etwaigen Kooperationspartnern / Vertragsbedingungen)*
             - Falls abgesprochen, Fundsachen vorheriger Comps *(Rücksprache mit ganzer Gruppe)*
 
-        ??? tip "Delegate-Equipment"
+        !!! tip "Delegate-Equipment"
 
             Zum typischen Delegate-Equipment gehören die folgenden Dinge, die die Delegates sich häufig noch untereinander aufteilen bzw. pro Stage dabei haben:
 
@@ -348,13 +350,13 @@
             - Laminierte Schilder (u.a. Blind-Sightblocker-Sheets, Hinweisschilder allgemein)
             - Falls benötigt und verfügbar, Multi-BLD Abdecktücher bzw. Harmonica-Holder
 
-    ??? success "Schedule verifizieren, Setup überprüfen, Gruppeneinteilungen machen"
+    !!! success "Schedule verifizieren, Setup überprüfen, Gruppeneinteilungen machen"
 
         Je näher man der Comp kommt, umso besser kann man die tatsächlichen Teilnehmerzahlen je Event planen. Dann lässt sich auch besser testen, wieviele Gruppen bzw. Heats / Scramblesets je Runde benötigt werden. Die ursprüngliche Planung sollte zwar grob passen, aber oft gibt es kleinere Abweichungen, wenn man gerade an einer Schwelle zu weniger / mehr Gruppen steht. Wenn es sich irgendwie machen lässt, sind große Gruppen und davon weniger effizienter. Auch die typische No-Show-Quote von 5 bis 10% deutet in diese Richtung.
 
         Beachte die Fristen: lösche Teilnehmer auf der Warteliste, sobald sie nicht mehr nachrücken dürfen. Informiere sie darüber.
 
-        ??? success "Konfiguration für Groupifier und Schedule besprechen"
+        !!! success "Konfiguration für Groupifier und Schedule besprechen"
 
             Wenn die Nachrückfrist und eine eventuelle Event-Bearbeitungs-Frist und Qualifikationsfirst vorbei sind, kannst du konkreter planen.
 
@@ -408,7 +410,7 @@
 
             Speichere deine Konfiguration in Groupifier ab.
 
-        ??? success "Gruppeneinteilungen erstellen"
+        !!! success "Gruppeneinteilungen erstellen"
 
             Hier kommt der eigentlich interessante Teil. Jetzt kannst du entweder mit Drag-and-Drop die Einteilungen __fine-tunen__, oder du wechselst zu Delegate-Dashboard und bearbeitest die Einteilungen schnell tabellarisch (letzteres für RLP / Saar. empfohlen).
 
@@ -455,7 +457,7 @@
                     - Teilnehmer mit gleichem oder ähnlich klingenden Vornamen in unterschiedliche Gruppen
                     - Spezifische Hinweise je Comp und Teilnehmer, die dir z.B. die Delegates separat mitteilen werden
 
-        ??? success "Orga-Team Einteilung"
+        !!! success "Orga-Team Einteilung"
 
             Plant vorab, wer welche Aufgabe(n) übernehmen wird, und von wann bis wann.
 
@@ -467,19 +469,19 @@
 
             Hier gibt es eine Vorlage bzw. für RLP / Saar. wird die Liste automatisch generiert und im geteilten Ordner verfügbar zum Ausdrucken sein. Ihr könnt vorab die Aufgaben auch schon in einer Tabelle festlegen. Besser, als sich diese Gedanken erst während der Comp zu machen!
 
-    ??? success "Vorbereitungen von Print-Material & Ausdrucken"
+    !!! success "Vorbereitungen von Print-Material & Ausdrucken"
 
-        ??? success "Urkunden"
+        !!! success "Urkunden"
 
             Diesen Schritt haben wir auf einer [:octicons-arrow-right-24: Extra-Seite beschrieben](../for-orga/index.md), da er immer wiederkehrt und auch für erfahrene Organisatoren relevant bleibt.
 
             Überlege dir im Vorfeld, ob bzw. welche Art von Urkunden du ausgeben möchtest. Bereite gerne ein eigenes Design vor oder nutze die Vorlagen, die wir auf der verlinkten Seite angeben. Die Urkunden wären ein guter Ort, um ein evtl. designtes Logo zu platzieren und sind immer eine schöne Geste.
 
-        ??? success "Namensschilder"
+        !!! success "Namensschilder"
 
             Auch hierzu gibt es eine [:octicons-arrow-right-24: Extra-Seite](../for-orga/index.md) mit Infos für alle Orga-Teams. Dazu gehören sowohl die Vorderseiten (Namen und so weiter), als auch die Rückseiten (Einteilungen erste Runden).
 
-        ??? success "Anmeldeliste für registration desk"
+        !!! success "Anmeldeliste für registration desk"
 
             Hierfür: .csv Download aller Anmeldungen nehmen, bzw. nach Newcomern filtern. Behalte die Spalten mit Namen, Geburtsdatum und Nationalität. Geschlecht wird nicht gecheckt, Events, Mail und Anmeldezeitpunkt muss man auch nicht mit ausdrucken. Ergänze separate Spalten wie "Checked" (breit genug, um Häkchen zu setzen) und "Kommentar / Änderung" (breit genug, um fehlerhafte Angaben zu korrigieren).
 
@@ -493,11 +495,11 @@
 
                 Ob die Newcomer auch tatsächlich Newcomer sind, müssen wir bis zur Ergebnis-Einreichung verifizieren. Dafür lassen wir mit Delegate-Dashboard den Test "Check First Timers" durchlaufen. Manchmal findet der Test auch "falsch-positive" Übereinstimmungen, z.B. bei unterschiedlichen Geburtsdaten. Kann man zwar mal vermerken und beim Check-In nachfragen, aber vermutlich sind es dann auch tatsächlich verschiedene Personen. Bei gefundenen Übereinstimmungen inklusive Geburtsdatum: entweder Person kontaktieren und nachfragen, oder bis zum Check-In warten, dann aber auf die Liste schon vorher den Kommentar hinzufügen, dass die Person möglicherweise gar kein Newcomer ist. Muss dann vor Ort geklärt werden. Wenn es mal zutrifft, dass sich jemand einen weiteren WCA-Account erstellt hat, aber schon ein Profil existiert, sag einem Delegate Bescheid - die WCA ID wird dann umgeschrieben zum neuen Account.
 
-        ??? success "Scoresheets"
+        !!! success "Scoresheets"
 
             Lade dir von Groupifier die PDF-Datei(en) für die jeweilige(n) Stage(s) herunter. Drucke die Sheets auf normalem Papier (bzw. wenn vorhanden / gewünscht, je nach Stage auch verschiedene Farben je nach Stage). Wenn du A6 Papier hast, und der Drucker dies verarbeiten kann, sparst du dir das Zuschneiden im Anschluss. Man kann diese Druckvorgänge auch im Team aufteilen, aber dies erfordert gute Koordination, nicht dass etwas fehlt oder doppelt gedruckt wird.
 
-        ??? success "Schilder, Pläne, sonstiges Infomaterial"
+        !!! success "Schilder, Pläne, sonstiges Infomaterial"
 
             Auf der WCA Website deiner Comp findest du auf der Hauptseite einen Link zu einem PDF-Dokument, welches unter anderem Zeitpläne enthält. Unterhalb der Zeile mit Delegates findest du "Download all the competition's details as PDF here." (klicke den "here"-Link). Dort gibt es dann hinter den Disziplinen für jeden Tag große Tabellen im Querformat.
 
@@ -505,7 +507,7 @@
 
 ??? tip "Aufbau und Aufgaben während des Wettbewerbs"
 
-    ??? success "Aufbau"
+    !!! success "Aufbau"
 
         Wenn ihr schon vorher geplant habt, wie aufgebaut werden soll, dann könnt ihr euch an einem Bestuhlungsplan orientieren. Wir brauchen den Teilnahmebereich mit Solving Stations, je nachdem, wie viele Stages geplant sind, einen oder mehrere Scrambling-Tische, einen oder mehrere Wartebereiche (waiting areas). Viele Trennwände helfen viel! Spart nicht an Sightblockern, sondern achtet darauf, dass Scrambling, Teilnahmebereich und Waiting Areas untereinander abgetrennt sind! Gerne ergänzen wir pro Scrambling-Table auch noch einen separaten Cube Submission Tisch, wo die Scoresheets zur Abgabe der Puzzles liegen und fertige Scoresheets gesammelt werden. Baut einen Orga-Bereich auf, bei dem alle Orga-Mitglieder und Delegates einen Platz finden, und wo ihr das Material / Technik platzieren könnt. Wenn die Anmeldung an einem anderen Ort als dem Orga-Tisch stattfindet, dann auch dort noch ein bis zwei Tische platzieren (je nach benötigtem Platz für Namensschilder und Co.).
 
@@ -521,7 +523,7 @@
 
         Schließt den Drucker an bzw. stellt sicher, dass alle Geräte, von denen gedruckt werden soll, die nötigen Treiber + Druckerkabel haben bzw. Drahtlos-Druckaufträge empfangen werden können.
 
-    ??? success "Registration desk / Newcomer betreuen"
+    !!! success "Registration desk / Newcomer betreuen"
 
         Hier benötigt ihr nun einen Ausdruck der Anmeldedaten mit Name / Geburtsdatum / Nationalität, sowie weiterer Spalten für "Checked" bzw. "Notwendige Änderungen / Kommentar" (die Liste habt ihr in der Vorbereitung schon erstellt). Prüft bei Newcomern die benötigten Daten (Name / Geburtsdatum / Nationalität) anhand von Ausweisdokumenten. Gebt denen, die ein solches Dokument nicht mitgebracht haben, die Möglichkeit, ein solches bis zum letzten Tag der Competition digital per Scan / Foto nachzureichen.
 
@@ -529,7 +531,7 @@
 
         Händigt den Newcomern verfügbares Infomaterial aus und erklärt ihnen, wie es weiter geht (Hinweis auf Tutorial). Bzgl. Tutorial dann gerne vermerken und den Delegates mitteilen, wenn es eine Übersetzung in eine andere Sprache geben soll.
 
-    ??? success "Durchsagen / Moderation und Ablauf koordinieren"
+    !!! success "Durchsagen / Moderation und Ablauf koordinieren"
 
         Mit den Durchsagen steuert ihr den reibungslosen Ablauf der Comp und informiert die Teilnehmer durchgehend über den Fortschritt im Zeitplan, sowie fordert die Helfer für die nächste(n) Gruppe(n) auf. Besonders wenn es viele internationale Gäste gibt, sollten die Ansagen sowohl auf Deutsch als auch auf Englisch stattfinden! Achtet darauf, dass wirklich jeder, der sich im Raum befindet, die Möglichkeit hat, der Durchsage zu folgen.
 
@@ -553,7 +555,7 @@
 
         Weiterhin sollte eine(r) von euch, oder mehrere (für mehrere Stages) immer die Scoresheets zwischen Orga-Tisch und Scrambling-Tisch transportieren, die neuen hinlegen und beim Cube Submission Bereich verteilen, und die fertigen abholen und zu den Scoretakern bringen. Es lohnt sich, wenn ihr euch vorher überlegt, welchem Schema ihr hier folgt: z.B. alle bereits gedruckten Sheets nach Gruppe getrennt zu den Stages bringen, oder nur gruppenweise neue bringen, und wer dafür verantwortlich ist.
 
-    ??? success "Scoretaking, Double-Checking, Folgerunden vorbereiten"
+    !!! success "Scoretaking, Double-Checking, Folgerunden vorbereiten"
 
         Nach jedem Heat treffen Stapel mit Scoresheets am Orga-Tisch ein. Überlegt euch ein Schema, mit welchem ihr neue (z.B. in einer hochkant Box) von eingetragenen (z.B. umgedrehter Stapel), und diese von ge-double-checkten Scoresheets (z.B. mit Vermerk "Doube-Checked" auf dem obersten Sheet im Stapel) unterscheiden könnt.
 
@@ -594,21 +596,21 @@
         6. Evtl. auch die Einteilungen ausdrucken und zu den jeweiligen Stages bringen.
 
 
-    ??? information "Optional: Verlosung"
+    !!! information "Optional: Verlosung"
 
         Je nachdem, was ihr hierfür geplant habt, stehen z.B. vor einer Mittagspause, am Ende der Comp oder zu einem anderen von euch gewählten Zeitpunkt eine oder mehrere Verlosungen an. Wir haben zu diesem Thema, welches jedes Orga-Team immer wieder beschäftigt, einen [:octicons-arrow-right-24: Extra-Punkt vorbereitet](../for-orga/index.md).
 
-    ??? success "Urkunden"
+    !!! success "Urkunden"
 
         Wenn alle Ergebnisse einer Finalrunde eingetragen sind (und ge-double-checked am besten auch!), dann kannst du die Urkunden vorbereiten. Wir haben zu diesem Thema, welches jedes Orga-Team immer wieder beschäftigt, einen [:octicons-arrow-right-24: Extra-Punkt vorbereitet](../for-orga/index.md). Wenn du diese Anleitung Schritt-für-Schritt durchgegangen bist, dann hast du die Urkunden schon in einem vorherigen Schritt zumindest als Vorlage vorbereitet.
 
         Denke, falls du nun etwas drucken möchtest, an die richtigen Einstellungen beim Drucker und das richtige Papier.
 
-    ??? success "Abbau koordinieren"
+    !!! success "Abbau koordinieren"
 
         Wenn du bestimmte Richtlinien der Venue kennst, z.B. wie die Bestuhlung nach der Veranstaltung aussehen soll / besenrein, dann mache diesbezüglich eine Durchsage. Teile die noch anwesenden Leute so ein, dass erfahrenere Personen beim Abbau des Equipments helfen, und weniger erfahrene Leute allgemeine Aufgaben wie Stühle und Tische zurückräumen übernehmen.
 
-    ??? success "Siegerehrung"
+    !!! success "Siegerehrung"
 
         Bereite alle Preise vor (inkl. Urkunden, evtl. Medaillen / Pokale / bereitgestelle gesponsorte Puzzles o.ä.) und sorge dafür, dass man dich als Moderator mit den Podestplätzen gut sehen kann. Gerne noch das Material zur Seite räumen und falls vorhanden lieber Banner aufstellen oder die Siegerehrung vor einem schönen Hintergrund durchführen.
 
@@ -624,7 +626,7 @@
 
 ??? tip "Nach dem Wettbewerb"
 
-    ??? success "Falls noch nicht geschehen: Double-Checking und Newcomer-Daten vervollständigen"
+    !!! success "Falls noch nicht geschehen: Double-Checking und Newcomer-Daten vervollständigen"
 
         Schließe das Double-Checking aus obiger Liste noch ab, und synchronisiere WCA Live abschließend.
 
@@ -636,7 +638,7 @@
 
         Es ist vorgeschrieben, die Scoresheets der Comp (für alle offiziellen Disziplinen) 90 Tage aufzubewahren. Erst im Anschluss können sie entsorgt werden!
 
-    ??? success "Finanzielles / Budget ausgleichen"
+    !!! success "Finanzielles / Budget ausgleichen"
 
         Ein paar Tage nach dem Wettbewerb kommt die Rechnung über die WCA-Gebühren. Der / die zuerst gelistete Delegate wird dir / dem Orga-Team die Rechnung weiterleiten, sie kann z.B. mit Paypal gezahlt werden. Schließe dies zügig ab und trage den gezahlten Betrag in EUR in die Spalte mit tatsächlichen Beträgen im Budget-Dokument ein.
 
@@ -648,7 +650,7 @@
 
         Wenn am Ende Überschüsse bleiben sollten, sagt dir dein Delegate, wohin der Überschuss gehen soll (Folgebudget weiterer Comp(s)), oder ob du diesen vielleicht sogar für deine nächste Comp als vorhandenes Kapital nutzen kannst.
 
-    ??? success "Aftercomp-Mail"
+    !!! success "Aftercomp-Mail"
 
         Stelle folgende Informationen zusammen: das genutzte Judging-System, Fundsachen (und vermisste Sachen), letztere Information bitte sowohl auf Deutsch, als auch auf Englisch. Erinnere deinen Delegate daran, dir eine Feedback-Umfrage zu erstellen. Hier in RLP / Saar. triggert ein Delegate dann den Mail-Entwurf mit allen Links und Hinweisen. Unsere Software kann anhand der Results alle Empfänger bestimmen, die die Umfrage und die Aftercomp-Mail tatsächlich erhalten sollen (angemeldete Teilnehmer ohne die No-Shows). Beides schickt dein Delegate zu dir / an die Orga-Mailadresse. Von dort können dann die Teilnehmer __im BCC-Feld__, also untereinander anonym, angeschrieben werden.
 
