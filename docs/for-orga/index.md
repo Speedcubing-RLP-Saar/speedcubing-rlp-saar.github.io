@@ -27,7 +27,7 @@
 
     !!! info "Öffentliche Übersicht"
 
-        Was Teilnehmer sehen, und was du auch zum Heranziehen der eingteilten Helfer nutzen kannst, ist [:octicons-arrow-up-right-24: competitiongroups](https://competitiongroups.com/) - dort siehst du alle Zuteilungen pro Gruppe oder mit anderen Ansichten je Teilnehmer und in der Schedule. Die Seite wird besonders ab den zweiten Runden relevant, da die Namensschild-Rückseiten dann nicht mehr gelten!
+        Was Teilnehmer sehen, und was du auch zum Heranziehen der eingeteilten Helfer nutzen kannst, ist [:octicons-arrow-up-right-24: competitiongroups](https://competitiongroups.com/) - dort siehst du alle Zuteilungen pro Gruppe oder mit anderen Ansichten je Teilnehmer und in der Schedule. Die Seite wird besonders ab den zweiten Runden relevant, da die Namensschild-Rückseiten dann nicht mehr gelten!
 
     ??? note "Was Delegate-Dashboard (DD) sonst noch kann"
 

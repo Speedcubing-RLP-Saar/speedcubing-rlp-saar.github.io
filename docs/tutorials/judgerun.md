@@ -120,7 +120,7 @@
 
     Nimm dir am besten gleich 2-3 gescrambelte Puzzles mit. Du erkennst sie daran, dass die Box (das Cover) aufrecht steht, mit Scoresheet oben drauf (& Scrambler-Unterschrift vorhanden). Wenn es langsam voran geht, kannst du natürlich auch mit weniger Puzzles losgehen.
 
-    Halte das Scoresheet während des gesamten Transports verdeckt auf der Box, sodass zu zwar den Namen lesen kannst, aber man nicht das verdrehte Puzzle sehen kann.
+    Halte das Scoresheet während des gesamten Transports verdeckt auf der Box, sodass du zwar den Namen lesen kannst, aber man nicht das verdrehte Puzzle sehen kann.
 
     Begib dich dann zum Wartebereich.
 
